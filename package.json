@@ -1,0 +1,15 @@
+{
+  "name": "reply-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dikjstra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dijkstra": "^2.5.0"
+  }
+}
